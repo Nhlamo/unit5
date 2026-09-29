@@ -1,0 +1,3 @@
+The total number of valid components processed: 3
+The total combined weight: 5.5
+The average weight (rounded to 2 decimal places): 1.83
